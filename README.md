@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Oh-Somang :) 
 - 👀 I’m interested in C Language, Python, Java, HTML etc.
 - 🌱 I’m currently learning C Language, HTML etc.
-- 💞️ I’m looking to collaborate on ... (I don't think it's time for me to collaborate. I'll study more.) 
+- 💞️ I’m looking to collaborate on... (I don't think it's time for me to collaborate. I'll study more.) 
 - 📫 How to reach me is email, somang@gmail.com
-- 😄 Pronouns: Prudence, Deep thought, Pursuing diverse experiences ...
+- 😄 Pronouns: Prudence, Deep thought, Pursuing diverse experiences...
 - ⚡ Fun fact: I'm practicing controlling my own desire and impulse.
 
 <!---
